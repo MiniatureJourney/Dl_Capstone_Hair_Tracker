@@ -46,7 +46,7 @@ This project introduces an end-to-end computer vision and deep learning system t
 ### 1. Live Web Application Suite (Gradio 3-Tab Interface)
 The full web dashboard featuring baseline vs. follow-up image loading, automated biometric warping, continuous follicle density heatmaps, and hair progress analytics:
 
-![Web App Dashboard](screenshots/web_app_dashboard.png)
+
 
 ---
 
