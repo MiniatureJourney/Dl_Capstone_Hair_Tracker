@@ -1,0 +1,34 @@
+# ============================================================
+# DL Capstone — Hair Segmentation Project
+# RTX 5060 Laptop (Blackwell) — CUDA 12.8 — Python 3.12
+# PyTorch 2.11.0+cu128 is already installed separately
+# ============================================================
+
+# Core Vision & Image Processing
+opencv-python
+Pillow
+scikit-image
+
+# Dataset & Augmentation
+albumentations
+
+# Metrics
+torchmetrics
+
+# GUI & Web Deployment
+customtkinter
+gradio>=4.30.0
+scipy>=1.10.0
+
+# Utilities
+tqdm
+matplotlib
+pandas
+seaborn
+
+# Notebooks
+jupyter
+ipywidgets
+
+# Reporting
+fpdf2

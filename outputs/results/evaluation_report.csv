@@ -1,0 +1,6 @@
+Metric,Value
+Dice Score,0.9519
+IoU,0.9084
+Precision,0.9512
+Recall,0.9527
+Test Loss,0.1434

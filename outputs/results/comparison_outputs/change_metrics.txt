@@ -1,0 +1,11 @@
+Hair Change Analysis Report
+========================================
+Baseline image    : data\processed\images\09954.png
+Query image       : data\processed\images\09954_query.png
+Baseline coverage : 30.30%
+Current coverage  : 27.16%
+Coverage change   : -3.14%
+Relative change   : -10.4%
+Changed area      : 3.30%
+AKAZE matches     : 28
+Alignment SSIM    : 0.9303

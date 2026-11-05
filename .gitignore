@@ -1,0 +1,30 @@
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+capstone_env/
+.env
+
+# Raw and preprocessed massive image datasets (see data/DATASET_INSTRUCTIONS.md)
+data/raw/
+data/processed/
+*.tar.gz
+
+# Third-party runtime binaries & logs
+cloudflared.exe
+*.log
+tunnel.log
+pytorch_install_log.txt
+.gradio/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
