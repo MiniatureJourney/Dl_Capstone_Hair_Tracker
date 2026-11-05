@@ -23,6 +23,7 @@ cloudflared.exe
 tunnel.log
 pytorch_install_log.txt
 .gradio/
+outputs/results/comparison_outputs/_tmp*
 
 # OS specific files
 .DS_Store
